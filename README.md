@@ -1,2 +1,2 @@
 # GDPWorkshopDemo
-This is demo on github.
+This is demo on github workshop.
